@@ -4,7 +4,8 @@ I'm Sophie (she/they) and I'm a full stack developer from North Carolina.
 
 #### Current projects ⛷️
 - 🇯🇵 Japanese language study aide to help advanced learners streamline their study. Take a picture of some text and get back filtered, comprehensive vocabulary and their translations sorted by relevance and part of speech.
-- 📚 widget to turn a datasheet of currenly checked out library books' and their due dates into convineint, compact google-calendar events with reminders. 
+- 🧋 a simple little treat tracker, where users can remenice looking at all the little treats they've had.
+- 📚 widget to turn a list of currenly checked out library books' and their due dates into convineint, compact google-calendar events with reminders. 
 - 💜 version update for my BTS-chatbot `You Never Walk Alone`
 - 🕖 simple app to help people stay on track and keep to a schedule by blocking time for tasks, and sending notifications.
 
