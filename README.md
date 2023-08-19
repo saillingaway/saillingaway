@@ -5,11 +5,9 @@ I'm Sophie (she/they) and I'm a full stack developer from North Carolina.
 #### Current projects ⛷️
 - 🌶️ a calculator to help ration your remaining sriracha.
 - 🍦 a webapp that shows which McD.s location ice-cream machines are working.
-- 🇯🇵 Japanese language study aide to help advanced learners streamline their study. Take a picture of some text and get back filtered, comprehensive vocabulary and their translations sorted by relevance and part of speech.
+- 🇯🇵 Japanese language study tool to help advanced learners streamline their study. Take a picture of some text and get back filtered, comprehensive vocabulary and their translations sorted by relevance and part of speech.
 - 🧋 a simple little treat tracker, where users can remenice looking at all the little treats they've had.
-- 📚 widget to turn a list of currenly checked out library books' and their due dates into convineint, compact google-calendar events with reminders.
 - 💜 version update for my BTS-chatbot `You Never Walk Alone`
-- 🕖 simple app to help people stay on track and keep to a schedule by blocking time for tasks, and sending notifications.
 
 #### Currently learning 🌱
 - MongoDB
@@ -23,17 +21,3 @@ I'm Sophie (she/they) and I'm a full stack developer from North Carolina.
 I also paint! You can support me here:
 
 [<img alt="Instagram" src="https://img.shields.io/badge/rollininink-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/rollininink/)
-<!--
-**saillingaway/saillingaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
