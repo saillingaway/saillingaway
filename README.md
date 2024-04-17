@@ -1,6 +1,6 @@
 ### Hi 🐥
 
-I'm Sophie (she/they) and I'm a full stack developer from North Carolina. 
+I'm Sophie and I'm a full stack developer.
 
 #### Current projects ⛷️
 - 📫 a google apps script that takes specific data from a google sheet of responses from a google form and exports it to a google doc with custom formatting. 
