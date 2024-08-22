@@ -4,7 +4,7 @@ I'm Sophie and I'm a full stack developer.
 
 #### Current projects ⛷️
 - 🇯🇵 Japanese language study tool to help advanced learners streamline their study. Take a picture of some text and get back filtered, comprehensive vocabulary and their translations sorted by relevance and part of speech.
-- - 📫 an apps script that takes specific data from a google sheet of responses from a google form and exports it to a google doc with custom formatting. 
+- 📫 an apps script that takes specific data from a google sheet of responses from a google form and exports it to a google doc with custom formatting. 
 - 🪟 a productivity-based cli to allow you to quickly configure, open and close multiple workspaces for MacOS using bash.
 - 🍦 a webapp that shows which McD.s location's ice-cream machines are working.
 - 🧋 a simple little treat tracker, where users can remenice looking at all the little treats they've had.
